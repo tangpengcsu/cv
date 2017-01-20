@@ -1,5 +1,5 @@
 
-title: My Resume
+title: 唐鹏·简历
 url: 'http://webjeda.com'
 baseurl: '/cv' #change it according to your repository name
 
@@ -14,15 +14,16 @@ baseurl: '/cv' #change it according to your repository name
 
 #Profile information
 name: 唐鹏
-tagline: Developer
+tagline: 研发工程师
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: tang.peng@hotmail.com
 phone: 18676361392
 website: tangpengcsu.github.io/blog #do not add http://
-linkedin: 鹏-唐-585098113
+linkedin: tangpengcsu
 github: tangpengcsu
-#twitter: '@webjeda'
+twitter: 'tangpcn'
+weibo: tpeang
 
 #Update all the sections by editing the files inside _includes folder.
