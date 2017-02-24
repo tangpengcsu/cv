@@ -315,3 +315,6 @@ span.project-tagline {
 p {
   margin-top: 10px;
 }
+ol, ul {
+    padding-left: 20px;
+}
